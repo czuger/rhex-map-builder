@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rhex (2.0.3)
+    rmagick (3.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rhex
+  rmagick
+
+BUNDLED WITH
+   2.0.1

@@ -1,0 +1,29 @@
+m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+ m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+ m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+ m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+ m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+ m m m m m m m m m m m m m m m m p p p p p p p p p p p p p p p p f f f f f f f f f f f f f f f f
+m m m m m m m m m m m m m m m m h h p p p p p p p p p c c p p p f f f f f f f f f f f f f f f f
+ m m m m m m m m m m m m m m m h h h p p p p p p p c c c c c c c f f f f f f f f f f f f f f f s
+m m m m m m m m m m m m m m h h h h h p p p p p p p p c c c d c c d f f f f f f f f f f f f s s
+ m m m m m m m m m m m m m m h m h h h p p p p p p p p c c c d d c d d f f f f f f f f f s s s s
+m m m m m m m m m m m m m m h m m m h p p p p p p p p p c c c d d c d d f f f c c f f s s s s s
+ h h h h h h h h h h h h h h m m m m d d d d d d d d d d d d d c d d f f f c c c c c c s s s s s
+h h h h h h h h h h h h h m m m m m m m d d d d d d d d d c d d d f f f c c c c c c c c c s s s
+ h h h h h h h h h h h h h h m m m m m d d d d d d d d d d c c d f c c c c c c c c c c c c c s s
+h h h h h h h h h h h h h h h m m m m d d d d d d d d d d d c c c c c c c c c c c c c c c c c c
+ h h h h h h h h h h h h h h h m m m d d d d d d d d d d d d c c c c c c c c c c c c c c c c c c
+h h h h h h h h h h h h h h h m m d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+ h h h h h h h h h h h h h h h m d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+h h h h h h h h h h h h h h h h d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+ h h h h h h h h h h h h h h h h d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+h h h h h h h h h h h h h h h h d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+ h h h h h h h h h h h h h h h h d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+h h h h h h h h h h h h h h h h d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+ h h h h h h h h h h h h h h h h d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
+h h h h h h h h h h h h h h h h d d d d d d d d d d d d d d d d c c c c c c c c c c c c c c c c
